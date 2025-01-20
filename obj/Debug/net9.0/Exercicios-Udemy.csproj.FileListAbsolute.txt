@@ -1,0 +1,14 @@
+C:\Users\leonardo.rocha\Documents\Code\Pessoal\Exercicios-Udemy\obj\Debug\net9.0\Exercicios-Udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.rocha\Documents\Code\Pessoal\Exercicios-Udemy\obj\Debug\net9.0\Exercicios-Udemy.AssemblyInfoInputs.cache
+C:\Users\leonardo.rocha\Documents\Code\Pessoal\Exercicios-Udemy\obj\Debug\net9.0\Exercicios-Udemy.AssemblyInfo.cs
+C:\Users\leonardo.rocha\Documents\Code\Pessoal\Exercicios-Udemy\obj\Debug\net9.0\Exercicios-Udemy.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.rocha\Documents\Code\Pessoal\Exercicios-Udemy\bin\Debug\net9.0\Exercicios-Udemy.exe
+C:\Users\leonardo.rocha\Documents\Code\Pessoal\Exercicios-Udemy\bin\Debug\net9.0\Exercicios-Udemy.deps.json
+C:\Users\leonardo.rocha\Documents\Code\Pessoal\Exercicios-Udemy\bin\Debug\net9.0\Exercicios-Udemy.runtimeconfig.json
+C:\Users\leonardo.rocha\Documents\Code\Pessoal\Exercicios-Udemy\bin\Debug\net9.0\Exercicios-Udemy.dll
+C:\Users\leonardo.rocha\Documents\Code\Pessoal\Exercicios-Udemy\bin\Debug\net9.0\Exercicios-Udemy.pdb
+C:\Users\leonardo.rocha\Documents\Code\Pessoal\Exercicios-Udemy\obj\Debug\net9.0\Exercicios-Udemy.dll
+C:\Users\leonardo.rocha\Documents\Code\Pessoal\Exercicios-Udemy\obj\Debug\net9.0\refint\Exercicios-Udemy.dll
+C:\Users\leonardo.rocha\Documents\Code\Pessoal\Exercicios-Udemy\obj\Debug\net9.0\Exercicios-Udemy.pdb
+C:\Users\leonardo.rocha\Documents\Code\Pessoal\Exercicios-Udemy\obj\Debug\net9.0\Exercicios-Udemy.genruntimeconfig.cache
+C:\Users\leonardo.rocha\Documents\Code\Pessoal\Exercicios-Udemy\obj\Debug\net9.0\ref\Exercicios-Udemy.dll
