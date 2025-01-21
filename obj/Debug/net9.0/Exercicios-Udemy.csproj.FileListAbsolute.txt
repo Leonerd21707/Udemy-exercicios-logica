@@ -12,3 +12,4 @@ C:\Users\leonardo.rocha\Documents\Code\Pessoal\Exercicios-Udemy\obj\Debug\net9.0
 C:\Users\leonardo.rocha\Documents\Code\Pessoal\Exercicios-Udemy\obj\Debug\net9.0\Exercicios-Udemy.pdb
 C:\Users\leonardo.rocha\Documents\Code\Pessoal\Exercicios-Udemy\obj\Debug\net9.0\Exercicios-Udemy.genruntimeconfig.cache
 C:\Users\leonardo.rocha\Documents\Code\Pessoal\Exercicios-Udemy\obj\Debug\net9.0\ref\Exercicios-Udemy.dll
+C:\Users\leonardo.rocha\Documents\Code\Pessoal\Exercicios-Udemy\obj\Debug\net9.0\Exercicios-Udemy.sourcelink.json
