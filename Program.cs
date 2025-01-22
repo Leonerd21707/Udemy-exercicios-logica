@@ -1,25 +1,34 @@
 ﻿using System;
+using System.Collections.Generic;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Informe qual operação deseja executar: 1 - Calcular custo / 2 - Calcular Raio");
+        Console.WriteLine("");
+        Console.WriteLine("Informe qual operação deseja executar:");
+        Console.WriteLine("1 - Calcular custo");
+        Console.WriteLine("2 - Calcular Raio");
+        Console.WriteLine("3 - Calcular preco");
         string opcao = Console.ReadLine();
 
         switch (opcao)
         {
             case "1":
                 CalculaCusto();
-            break;
+                break;
 
             case "2":
                 CalculaRaio();
-            break;
+                break;
+
+            case "3":
+                CalculaPreco();
+                break;
 
             default:
                 Console.WriteLine("Opção inválida.");
-            break;
+                break;
         }
     }
 
@@ -72,6 +81,57 @@ class Program
         double raio = double.Parse(Console.ReadLine());
         resultado = pi*Math.Pow(raio, 2);
         Console.WriteLine($"A área do circulo é:{resultado:F2}");
+    }
+
+    static void CalculaPreco()
+    {
+        Console.WriteLine("Cardapio");
+        Console.WriteLine("");
+        Console.WriteLine("1 - Cachorro Quente - R$ 4.00");
+        Console.WriteLine("2 - X-Salada - R$ 4.50");
+        Console.WriteLine("3 - X-Bacon - R$ 5.00");
+        Console.WriteLine("4 - Torrada Simples - R$ 2.00");
+        Console.WriteLine("5 - Refrigerante - R$ 1.50");
+        Console.WriteLine("");
+
+        Console.WriteLine("Informe o codigo do produto:");
+        int codigo = int.Parse(Console.ReadLine());
+
+        Console.WriteLine("Informe a Quantidade:");
+        int quantidade = int.Parse(Console.ReadLine());
+
+        double preco = 0;
+
+        switch (codigo)
+        {
+            case 1:
+                preco = 4.00;
+                break;
+
+            case 2:
+                preco = 4.50;
+                break;
+
+            case 3:
+                preco = 5.00;
+                break;
+            
+            case 4:
+                preco = 2.00;
+                break;
+            
+            case 5:
+                preco = 1.50;
+                break;
+            
+            default:
+                Console.WriteLine("Codigo não encontrado");
+                break;
+        }
+        
+        double total = preco * quantidade;
+
+        Console.WriteLine($"O valor total a pagar: {total:F2}");
     }
 
 }
